@@ -1,6 +1,7 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
-
-for self-checking their submission.
+1. Open index.html in browser
+2. Use directional arrows to move the player
+3. If the player collides with a bug, the player lost and will be sent back to the start position
+4. If the player reaches the water, the game is won. The player will be sent back to the start position to play again.
