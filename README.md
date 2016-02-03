@@ -1,5 +1,9 @@
 # Arcade Game
 
+## Purpose of Project
+
+To use object-oriented programming to add a number of entities to the game, including the player characters and enemies, to recreate the classic arcade game Frogger.
+
 ### Starting Game on GitHub
 1. Navigate to http://kortiz75.github.io/arcade-game to open up the game site 
 2. Use directional arrows to move the player
